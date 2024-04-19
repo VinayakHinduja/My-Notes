@@ -1,0 +1,10 @@
+export 'package:my_notes/screen/authentication_screens/login_screen.dart';
+export 'package:my_notes/screen/authentication_screens/forgot_password_screen.dart';
+export 'package:my_notes/screen/authentication_screens/my_account_screen.dart';
+export 'package:my_notes/screen/authentication_screens/registration_screen.dart';
+export 'package:my_notes/screen/authentication_screens/update_password_screen.dart';
+export 'package:my_notes/screen/authentication_screens/update_username_screen.dart';
+export 'package:my_notes/screen/authentication_screens/verification_screen.dart';
+export 'package:my_notes/screen/authentication_screens/profile_popup_screen.dart';
+export 'package:my_notes/screen/notes/create_update_note.dart';
+export 'package:my_notes/screen/notes/notes_view.dart';
