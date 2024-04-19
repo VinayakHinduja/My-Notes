@@ -3,6 +3,8 @@
 
 My Notes is an easy-to-use, intuitive, fast, elegant and secure app for writing and managing notes on cloud. The app can be used as a notepad, notebook, journal or diary. All your notes are protected with email and password in your account. You can edit the notes as you want.
 
+<br>
+
 ## Features
 
 - Cross platform.
@@ -10,6 +12,7 @@ My Notes is an easy-to-use, intuitive, fast, elegant and secure app for writing 
 - Secure.
 - Cloud based.
 
+<br>
 
 ## Screenshots
 
@@ -74,6 +77,7 @@ My Notes is an easy-to-use, intuitive, fast, elegant and secure app for writing 
   </tr>
  </table>
 
+<br>
 
 ## Dependencies
 
@@ -94,6 +98,8 @@ My Notes is an easy-to-use, intuitive, fast, elegant and secure app for writing 
 - [Image Picker](https://pub.dev/packages/image_picker)
 - [Flutter Toast](https://pub.dev/packages/fluttertoast)
 - [flutter Launcher Icons](https://pub.dev/packages/flutter_launcher_icons)
+
+<br>
 
 ## Deployment
 
